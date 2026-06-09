@@ -102,8 +102,8 @@ window.addEventListener('scroll', () => {
 
 // 控制台问候
 console.log('%cMasai Collection', 'font-size: 24px; color: #667eea; font-weight: bold;');
-console.log('%cBrand Design & Creative Exploration', 'font-size: 12px; color: #764ba2;');
-console.log('%cContact: +86 176-8188-0663', 'font-size: 12px; color: #737380;');
+console.log('%c品牌设计 & 艺术创作', 'font-size: 12px; color: #764ba2;');
+console.log('%c联系: +86 176-8188-0663', 'font-size: 12px; color: #737380;');
 
 // 页面加载完成时的动画
 document.addEventListener('DOMContentLoaded', () => {
